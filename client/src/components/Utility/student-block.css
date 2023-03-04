@@ -1,0 +1,27 @@
+.student-block {
+  font-family: sans-serif;
+  line-height: 1.4;
+  margin: 5px;
+  padding: 10px;
+  border: thin solid black;
+  /* border-radius: 8px; */
+  background-color: aliceblue;
+  box-shadow: 5px 5px 10px #555;
+  width: 80%;
+  margin: 20px auto;
+}
+
+.btn {
+  padding: 3px;
+  width: 75px;
+  font-size: 14px;
+  border-radius: 5px;
+}
+
+.btn-edit {
+  background-color: goldenrod;
+}
+
+.btn-delete {
+  background-color: crimson;
+}

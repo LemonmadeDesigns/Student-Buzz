@@ -1,0 +1,32 @@
+.students-form {
+    font-family: sans-serif;
+  }
+
+  .students-form input,
+  .students-form textarea {
+    display: block;
+    width: 500px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    font-size: 20px;
+  }
+
+  .students-form label {
+    margin-left: 20px;
+  }
+
+  .students-form button {
+    font-size: 25px;
+    padding: 5px;
+    margin-left: 20px;
+  }
+
+  .students-form button[type='submit'] {
+    background-color: green;
+    color: white;
+  }
+
+  .students-form button[type='button'] {
+    background-color: red;
+    color: white;
+  }
